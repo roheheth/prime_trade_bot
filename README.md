@@ -78,8 +78,6 @@ BINANCE_API_KEY=your_testnet_api_key_here
 BINANCE_API_SECRET=your_testnet_api_secret_here
 ```
 
-> ⚠️ Never commit `.env` to version control. It's already in `.gitignore`.
-
 ---
 
 ## How to Run
